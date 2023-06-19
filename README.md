@@ -4,7 +4,7 @@
 # 🚀 My App (1.0)
 Bienvenue à bord de la version mise à niveau de notre Lead Management App !
 
-## ✔️ Vérification Pré-Installation (Exmples d'actions ci-dessous)
+## ✔️ Vérification Pré-Installation (Exemple)
 
 - Deployer manuellement les champs suivants :
     - `2fd776468a280b8ef6f73c39c5aedb0abaeba7cb` (via le bouton Deploy et le sha) 
@@ -24,7 +24,7 @@ Bienvenue à bord de la version mise à niveau de notre Lead Management App !
 
 Note : Le package fourni peut être en version bêta. Si vous avez besoin de son installation en Production, n'hésitez pas à contacter l'éditeur pour promouvoir le package.
 
-## 📋 Procédure Post-Installation (Exmples d'actions ci-dessous)
+## 📋 Procédure Post-Installation (Exemple)
 
 - Deploiement manuel (via Le bouton Deploy et sha) ;
     - sharing rules : `0a6204bac5447ceeedf6e5d79c9bb7d22fd123f0`
