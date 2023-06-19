@@ -1,0 +1,32 @@
+{
+  "packageDirectories": [
+    {
+      "path": "packaged",
+      "default": true,
+      "package": "My App",
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.3.NEXT",
+      "versionDescription": ""
+    },
+    {
+      "path": "unpackaged",
+      "default": false,
+      "package": "My App - Unapackaged",
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "versionDescription": ""
+    },
+    {
+      "path": "profileRetriever",
+      "default": false,
+      "package": "My App - profileRetriever",
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "name": "My App",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0"
+}

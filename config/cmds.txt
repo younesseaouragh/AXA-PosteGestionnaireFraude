@@ -1,0 +1,11 @@
+sf org login web -a DevHub -d  -r https://nbc19.my.salesforce.com -s
+
+sf package create --name "Stellantis Lead Management" --package-type Unlocked --path packaged --no-namespace --target-dev-hub DevHubNBS --org-dependent
+
+
+sf package list --target-dev-hub DevHubNBS --verbose
+
+sf package delete --package "Ticketing Sante"
+
+sf package version create --package 0Ho4J000000TNnhSAG -x -w 15
+
