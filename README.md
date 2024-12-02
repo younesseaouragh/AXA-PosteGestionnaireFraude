@@ -5,15 +5,14 @@
 
 ## ✔️ Vérification Pré-Installation
 
-
+- Création d'un entitlement process : sla poste gestionnaire fraude v8
 
 ## 📝 Guide d'Installation
 
-- Démarrez l'installation de `My App` (Version 1.0) en visitant cette URL : `https://<Org Domain Name>.my.salesforce.com/packaging/installPackage.apexp?p0=<packageID>`. Notez que vous devez remplacer `<InstanceDomainName>` par le nom de domaine de votre organisation de destination. Et aussi, remplacez `<packageID>` par l'ID de la version du package publié.
-    - Version 1.0 : `<Package Version ID Here>`
+- Démarrez l'installation en visitant cette URL : https://login.salesforce.com/packaging/installPackage.apexp?p0=04tTu000000v32nIAA .
+
 
 - Pendant le processus, veuillez sélectionner l'option Installer uniquement pour les administrateurs. 
-Note : Le package fourni peut être en version bêta. Si vous avez besoin de son installation en Production, n'hésitez pas à contacter l'éditeur pour promouvoir le package.
 
 ## 📋 Procédure Post-Installation (Exemple)
 
@@ -23,6 +22,9 @@ Note : Le package fourni peut être en version bêta. Si vous avez besoin de son
 - Création des utilisateurs : Resp Fraude & chargé fraude
 - Création des enregistrements dans la matrice des affectations pour les chargé fraude.
 - Mise à jour des groupes publiques "PGF_AutoMatTeam" et "PGF_Management"
+- Création de la règle de partage entre les chargé fraude Sharing rules
+- Création de la Connected App pour l'intégration
+- Création d'un profil "Fraude User" sans aucune permission
 
 
 L'équipe NBS Consulting 🌟 Révolutionner votre expérience digitale.
