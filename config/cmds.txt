@@ -9,3 +9,7 @@ sf package delete --package "Ticketing Sante"
 
 sf package version create --package 0Ho4J000000TNnhSAG -x -w 15
 
+
+Successfully created the package version [08cTu0000000qLBIAY]. Subscriber Package Version Id: 04tTu000000uusMIAQ
+Package Installation URL: https://login.salesforce.com/packaging/installPackage.apexp?p0=04tTu000000uusMIAQ
+
