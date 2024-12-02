@@ -12,8 +12,7 @@
 - Démarrez l'installation de `My App` (Version 1.0) en visitant cette URL : `https://<Org Domain Name>.my.salesforce.com/packaging/installPackage.apexp?p0=<packageID>`. Notez que vous devez remplacer `<InstanceDomainName>` par le nom de domaine de votre organisation de destination. Et aussi, remplacez `<packageID>` par l'ID de la version du package publié.
     - Version 1.0 : `<Package Version ID Here>`
 
-- Pendant le processus, veuillez sélectionner l'option Installer uniquement pour les administrateurs. Besoin d'un guide visuel ? Pas de problème ! Le voici :  : ![Capture d'écran d'installation](<Installation Guide Screenshots URL>)
-
+- Pendant le processus, veuillez sélectionner l'option Installer uniquement pour les administrateurs. 
 Note : Le package fourni peut être en version bêta. Si vous avez besoin de son installation en Production, n'hésitez pas à contacter l'éditeur pour promouvoir le package.
 
 ## 📋 Procédure Post-Installation (Exemple)
