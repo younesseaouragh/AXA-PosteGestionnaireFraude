@@ -1,8 +1,7 @@
 <p align="left">
   <img src="https://www.nbs-consulting.net/storage/app/uploads/public/5e5/eb2/b90/5e5eb2b905125786524021.png">
 </p>
-# 🚀 Poste Gestionnaire Fraude (1.0)
-Bienvenue à bord de la nouvelle application Poste Gestionnaire Fraude !
+# 🚀 Bienvenue à bord de la nouvelle application Poste Gestionnaire Fraude (1.0) !
 
 ## ✔️ Vérification Pré-Installation
 
