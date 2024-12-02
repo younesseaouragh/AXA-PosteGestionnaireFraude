@@ -11,10 +11,9 @@
 
 - Démarrez l'installation en visitant cette URL : https://login.salesforce.com/packaging/installPackage.apexp?p0=04tTu000000v32nIAA .
 
-
 - Pendant le processus, veuillez sélectionner l'option Installer uniquement pour les administrateurs. 
 
-## 📋 Procédure Post-Installation (Exemple)
+## 📋 Procédure Post-Installation
 
 - Ajout des nouvelles valeurs pour le champ "Canal" et pour le RecordType "Fraude" : Chargé Fraude; Rule Engine (api name Fraud Studio); APK; Gestionnaire; Intermédiaire; APK ; Expert; Gestionnaire20k
 - Création d’un enregistrement au niveau la table Entitlement et faire referencer l'Entitlement Process "Poste Gestionnaire Fraude SLAs"
